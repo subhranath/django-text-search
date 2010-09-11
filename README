@@ -1,0 +1,4 @@
+A Django full text search module, written purely in Python, using the power of regular expressions, and is fully compatible with Google App Engine server.
+
+For instructions on how to use this in your Django project, or django-nonrel powered GAE project, please check http://scratch-blog.appspot.com/blog/2010/09/04/django-full-text-search-purely-python
+
